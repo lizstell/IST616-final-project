@@ -1,6 +1,6 @@
-## Star-Crossed Cataloging Project : Shakespeare in Adaptation
+# Star-Crossed Cataloging Project : Shakespeare in Adaptation
 
-# IST 616 : Information Resources Final Project
+## IST 616 : Information Resources Final Project
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
